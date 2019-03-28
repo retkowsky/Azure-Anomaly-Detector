@@ -1,4 +1,4 @@
-# Azure_Anomaly_Detector
+# Azure Anomaly Detector
 Azure Anomaly Detector
 
 
